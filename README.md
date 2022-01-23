@@ -1,2 +1,4 @@
-# 3d-models
-3D models for miscellaneous things
+# 3d models
+These models are for various things i needed. Use OpenSCAD for customization and to export stl files for printing.
+
+This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
