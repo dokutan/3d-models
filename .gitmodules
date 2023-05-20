@@ -1,3 +1,6 @@
 [submodule "openscad/lib/scad-utils"]
 	path = openscad/lib/scad-utils
 	url = https://github.com/OskarLinde/scad-utils
+[submodule "openscad/lib/gridfinity_openscad"]
+	path = openscad/lib/gridfinity_openscad
+	url = https://github.com/vector76/gridfinity_openscad
